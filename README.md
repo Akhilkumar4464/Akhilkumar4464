@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi 👋, I'm Akhil Kumar
+# Hi 👋, I'm Akhil Kumar
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Clean+%26+Scalable+UI" />
@@ -96,4 +96,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
