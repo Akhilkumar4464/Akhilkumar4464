@@ -15,7 +15,7 @@
 * 🎨 Love building **clean UI / UX** with Tailwind CSS
 * 🌱 Exploring **MERN stack & performance optimization**
 * 🤝 Open to **Intern / Junior Frontend Developer roles**
-* 📫 Reach me at: **[nitessharma4464@gmail.com](mailto:akhilsharma774230@gmail.com)**
+* 📫 Reach me at: **[akhilsharma774230@gmail.com](mailto:akhilsharma774230@gmail.com)**
 
 ---
 
