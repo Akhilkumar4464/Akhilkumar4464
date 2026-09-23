@@ -1,73 +1,122 @@
-<h1 align="center">Hi 👋, I'm Akhil Kumar</h1>
-<h3 align="center">Frontend Developer | React.js | Full Stack Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Akhil%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" />
 
 <p align="center">
   <a href="https://akhilkumar.dev"><img src="https://img.shields.io/badge/Portfolio-akhilkumar.dev-1F3864?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/akhilkumar4464"><img src="https://img.shields.io/badge/LinkedIn-akhilkumar4464-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akhilsharma774230@gmail.com"><img src="https://img.shields.io/badge/Email-akhilsharma774230-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=akhilkumar4464&style=for-the-badge&color=1F3864&label=Profile+Views" />
 </p>
-
----
-
-### 🚀 About Me
-
-- 🎓 B.Tech CSE student at **Raffles University, Neemrana** (2024 – 2028) — SGPA 8.0+
-- 💻 Building full-stack, AI-powered web apps with the **MERN stack** & **Next.js**
-- 🌱 Currently exploring **Agentic AI** and advanced **LLM integrations**
-- 💼 Web/Frontend Developer intern experience at **Codeunia**, **Zidio Development**, **SaiKet Systems** & **Code-A-Nova**
-- 📫 Reach me at **akhilsharma774230@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 🔥 Featured Projects
-
-| Project | Description | Live Demo |
-|---|---|---|
-| **[GetYourDestination](https://get-your-destination-8qb3.vercel.app/)** | AI resume analyzer & interview-prep platform built with React, Node.js & Google Gemini — near-100% uptime, 80%+ smaller data payloads | [🔗 Visit](https://get-your-destination-8qb3.vercel.app/) |
-| **[DataVision-AI](https://data-vision-ai-zeta.vercel.app/)** | AI-powered data visualization platform supporting Excel/CSV/PDF/Word uploads up to 10MB with a dual-engine (GPT-4o-mini + statistical fallback) analytics system | [🔗 Visit](https://data-vision-ai-zeta.vercel.app/) |
-| **[Daily Hunt-AI](https://daily-hunt-2ftg.vercel.app/)** | Full-stack freelance marketplace on Next.js 16 & React 19 — 96+ Lighthouse score, JWT-secured sessions, real-time bid calculators | [🔗 Visit](https://daily-hunt-2ftg.vercel.app/) |
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akhilkumar4464&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+Raffles+University%2C+Neemrana;Building+full-stack+AI-powered+web+apps;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Currently+exploring+Agentic+AI+%26+LLMs" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F3864&height=2&section=header" />
+
+## 🚀 About Me
+
+```yaml
+name: Akhil Kumar
+role: Frontend / Full Stack Developer
+education: B.Tech CSE, Raffles University, Neemrana (2024 – 2028) — SGPA 8.0+
+experience: Codeunia · Zidio Development · SaiKet Systems · Code-A-Nova
+focus: MERN Stack, Next.js, Generative AI integrations
+currently_exploring: Agentic AI, LLM-powered applications
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F3864&height=2&section=header" />
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,c,py,react,nextjs,html,css,tailwind,bootstrap,materialui,nodejs,express,mongodb,git,github,gitlab,vercel,postman&theme=light&perline=10" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F3864&height=2&section=header" />
+
+## 🔥 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 [GetYourDestination](https://get-your-destination-8qb3.vercel.app/)
+AI resume analyzer & interview-prep platform
+
+`React` `Node.js` `Gemini AI`
+
+- ⚡ Near-100% uptime via auto-retry
+- 📉 80%+ smaller data payloads
+- 🧾 Client-side PDF/HTML export
+
+**[🔗 Live Demo](https://get-your-destination-8qb3.vercel.app/)**
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 [DataVision-AI](https://data-vision-ai-zeta.vercel.app/)
+AI-powered data visualization platform
+
+`TypeScript` `React` `OpenAI`
+
+- 📁 Handles Excel/CSV/PDF/Word up to 10MB
+- 🤖 Dual-engine analytics (GPT-4o-mini + fallback)
+- 📈 5 chart types + auto report export
+
+**[🔗 Live Demo](https://data-vision-ai-zeta.vercel.app/)**
+
+</td>
+<td width="33%" valign="top">
+
+### 💼 [Daily Hunt-AI](https://daily-hunt-2ftg.vercel.app/)
+Full-stack freelance marketplace
+
+`Next.js 16` `React 19` `JWT`
+
+- 🚀 96+ Lighthouse performance score
+- 🔒 99% fewer session-hijack risks
+- 💰 Real-time bid calculators
+
+**[🔗 Live Demo](https://daily-hunt-2ftg.vercel.app/)**
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F3864&height=2&section=header" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akhilkumar4464&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkumar4464&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilkumar4464&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilkumar4464&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864" />
 </p>
-
----
-
-### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/akhilkumar4464"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://akhilkumar.dev"><img src="https://img.shields.io/badge/-Portfolio-1F3864?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:akhilsharma774230@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=akhilkumar4464&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/akhilkumar4464">akhilkumar4464</a></i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F3864&height=2&section=header" />
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhilkumar4464/akhilkumar4464/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+<sup align="center">↳ Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo to auto-generate this.</sup>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F3864&height=2&section=header" />
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/akhilkumar4464"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://akhilkumar.dev"><img src="https://img.shields.io/badge/-Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:akhilsharma774230@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" />
